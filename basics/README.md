@@ -4,3 +4,4 @@ command that changes working directory
 command to list contents in long format
 command to display current directory contents incluing hidden files
 command to display current directory contents including hidden files
+command to list current directory contents displayed numerically
