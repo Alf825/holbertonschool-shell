@@ -8,3 +8,4 @@ command to list current directory contents displayed numerically
 command to create directory in the /tmp directory
 command to create directory in the /tmp directory
 command to move file betty into my_first_directory
+command to remove file betty
