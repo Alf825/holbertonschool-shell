@@ -10,3 +10,4 @@ command to create directory in the /tmp directory
 command to move file betty into my_first_directory
 command to remove file betty
 delete my_first_directory
+change to previous directory
