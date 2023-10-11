@@ -16,3 +16,4 @@ print type of file
 command to create symbolic link to /bin/ls
 command to copy all html files
 command that moves all files begining with uppercase letter
+command that deletes all files begining with ~
