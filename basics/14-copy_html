@@ -1,2 +1,2 @@
 #!/bin/bash
-find myDir -/basics "*.html" -exec cp {} ~/holbertonschool-shell
+cp -u *.html /holbertonschool-shell
