@@ -4,3 +4,4 @@ command that prints all the groups the current user is part of
 command that changes the ownership of a file
 command that creates an empty file named hello
 command to change execute permissions for file hello
+command that adds execute permission to the file hello
