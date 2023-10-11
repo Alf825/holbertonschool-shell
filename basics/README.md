@@ -14,3 +14,4 @@ change to previous directory
 list all files in curennt working dir and parent working dir
 print type of file
 command to create symbolic link to /bin/ls
+command to copy all html files
