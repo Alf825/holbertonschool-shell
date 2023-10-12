@@ -9,3 +9,4 @@ command to give execution permission to group owner and all users
 James Bond permissions
 John Doe permissions
 mirror permissions of olleh file
+adds execute permissions to all sub directories
