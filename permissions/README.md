@@ -11,3 +11,4 @@ John Doe permissions
 mirror permissions of olleh file
 adds execute permissions to all sub directories
 creates a directory with 751 permissions
+script that changes owner to school
