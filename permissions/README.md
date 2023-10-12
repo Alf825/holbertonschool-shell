@@ -12,3 +12,4 @@ mirror permissions of olleh file
 adds execute permissions to all sub directories
 creates a directory with 751 permissions
 script that changes owner to school
+script that changes owner and group owner
