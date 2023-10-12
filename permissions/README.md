@@ -15,3 +15,4 @@ script that changes owner to school
 script that changes owner and group owner
 script changes owner to vincent and group owner to staff
 script changes u g hello to vincent and staff
+script that changes owner of file if owned by user
