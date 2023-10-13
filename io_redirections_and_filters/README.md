@@ -6,3 +6,4 @@ display the last 10 lines
 script displays thr first 10 lines of the file
 display the third line of a file
 creates a file named Best School
+writes ls -a into file
