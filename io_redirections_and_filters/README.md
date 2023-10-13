@@ -17,3 +17,4 @@ display the number of lines that contain bin
 display lines containing root and 3 lines after them
 display lines that do not contain pattern bin
 display lines of the file starting with a letter
+Replace all characters A c with Z e
