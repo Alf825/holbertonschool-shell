@@ -8,3 +8,4 @@ display the third line of a file
 creates a file named Best School
 writes ls -a into file
 script duplicates the last line
+deletes all javascript files
