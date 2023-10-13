@@ -21,3 +21,4 @@ Replace all characters A c with Z e
 replace all characters A c with Z e
 removes c and C from all files
 script that reverses its input
+display all users and homes
