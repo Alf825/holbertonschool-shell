@@ -10,3 +10,4 @@ writes ls -a into file
 script duplicates the last line
 deletes all javascript files
 counts the number of directories and sub-directories
+list the 10 newest files
