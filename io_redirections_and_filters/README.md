@@ -12,3 +12,4 @@ deletes all javascript files
 counts the number of directories and sub-directories
 list the 10 newest files
 filters out only unique lines
+display lines with the pattern root
