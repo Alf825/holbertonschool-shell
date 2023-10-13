@@ -20,3 +20,4 @@ display lines of the file starting with a letter
 Replace all characters A c with Z e
 replace all characters A c with Z e
 removes c and C from all files
+script that reverses its input
