@@ -13,3 +13,4 @@ counts the number of directories and sub-directories
 list the 10 newest files
 filters out only unique lines
 display lines with the pattern root
+display the number of lines that contain bin
