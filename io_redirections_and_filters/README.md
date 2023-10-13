@@ -9,3 +9,4 @@ creates a file named Best School
 writes ls -a into file
 script duplicates the last line
 deletes all javascript files
+counts the number of directories and sub-directories
