@@ -10,3 +10,4 @@ prints the result of power divided by divide
 script that displays the result of BREATH to the power of LOVE
 converts number from base 2 to base 10
 prints all possible combinations of two letters
+prints a number with two decimal numbers
