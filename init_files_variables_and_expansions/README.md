@@ -5,3 +5,4 @@ script that lists enviroment variables
 lists all local variables and eviroment variables
 creates local variable with value of school
 creates global variable BEST
+script that prints the result of the addition of 128
