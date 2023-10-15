@@ -7,3 +7,4 @@ creates local variable with value of school
 creates global variable BEST
 script that prints the result of the addition of 128
 prints the result of power divided by divide
+script that displays the result of BREATH to the power of LOVE
